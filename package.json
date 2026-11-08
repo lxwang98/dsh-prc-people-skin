@@ -1,0 +1,66 @@
+{
+  "name": "dsh-prc-people-skin",
+  "version": "1.0.0",
+  "description": "人民的AI，智慧办公：深红侧栏 + 米白工作区的 DSH 政务工作台皮肤（自绘横幅、四张办事入口、可导入主题包，保留原生布局）。",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxwang98/dsh-prc-people-skin.git"
+  },
+  "homepage": "https://github.com/lxwang98/dsh-prc-people-skin#readme",
+  "bugs": {
+    "url": "https://github.com/lxwang98/dsh-prc-people-skin/issues"
+  },
+  "main": "lib/index.js",
+  "icon": "./assets/icon.svg",
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": "./lib/client.js",
+    "./icon": "./assets/icon.svg",
+    "./locale/en.json": "./locale/en.json",
+    "./locale/zh.json": "./locale/zh.json",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "assets",
+    "themes",
+    "locale",
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "author": "dsh-prc-people-skin contributors",
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "dsh-plugin",
+    "theme",
+    "skin",
+    "government",
+    "政务",
+    "换肤",
+    "人民"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [],
+      "immediately": true
+    }
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
+  }
+}

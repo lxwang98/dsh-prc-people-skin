@@ -1,0 +1,6 @@
+# dsh-prc-people-skin bundle patch: mounts the host half (asset routes for the
+# banner, skyline, icon and Dream Skin theme pack). The browser half is the
+# package ./client export, picked up through dsh.client in package.json.
+- insert:
+    - id: prc-people-skin
+      name: dsh-prc-people-skin

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 300" width="1600" height="300">
+  <g fill="none" stroke="#8E2A24" stroke-width="2" opacity="0.9" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M0 262h1600"/>
+    <path d="M80 262v-64h34v64M88 198h18v-8H88Zm14 0v-26h6v26M120 198v-44h22v44M130 154v-12h4v12"/>
+    <path d="M196 262v-92h38v92M206 170h20v-10h-20Zm12 10v-26h4v26M250 262v-62h26v62M262 200v-18h4v18"/>
+    <path d="M322 262v-120h46v120M334 142h24v-12h-24Zm14 12v-34h5v34M386 262v-74h28v74M398 188v-22h4v22"/>
+    <path d="M470 262v-54h30v54M482 208v-18h6v18"/>
+    <path d="M552 262v-78h24v78m10 0v-54h18v54M574 184v-22h4v22M608 262v-96h30v96M620 166v-16h6v16"/>
+    <path d="M690 262v-62h24v62M702 200v-24h4v24"/>
+    <path d="M760 262v-48h22v48M772 214v-18h4v18M804 262v-112h28v112M816 150v-16h3v16M850 262v-70h26v70M862 192v-22h4v22"/>
+    <path d="M918 262v-54h22v54M930 208v-20h4v20M962 262v-92h30v92M974 170v-18h5v18"/>
+    <path d="M1030 262v-64h28v64M1042 198v-24h4v24"/>
+    <path d="M1094 262v-44h24v44M1106 218v-16h4v16"/>
+    <path d="M1160 262v-76h30v76M1172 186v-18h5v18M1216 262v-50h24v50M1228 212v-18h4v18"/>
+    <path d="M1282 262v-104h34v104M1294 158v-18h6v18M1332 262v-64h26v64M1344 198v-22h4v22"/>
+    <path d="M1400 262v-84h30v84M1412 178v-16h5v16M1454 262v-58h26v58M1466 204v-20h4v20"/>
+    <path d="M1518 262v-70h34v70M1530 192v-18h6v18"/>
+    <path d="M368 262v-34h10v34M368 228h10M620 262v-30h10v30M620 232h10M954 262v-38h12v38M954 224h12"/>
+    <path d="M212 262v-16h58v16M224 262v-22h8v22M250 262v-22h8v22M276 262v-22h8v22"/>
+    <path d="M496 262v-18h94v18M510 244v-16h10v16M536 244v-16h10v16M562 244v-16h10v16"/>
+    <path d="M1230 262v-16h52v16"/>
+  </g>
+  <g fill="#8E2A24" opacity="0.72">
+    <path d="M214 238h8v6h-8Zm20 0h8v6h-8Zm20 0h8v6h-8Z"/>
+    <path d="M500 246h8v6h-8Zm24 0h8v6h-8Zm24 0h8v6h-8Z"/>
+    <path d="M330 174h6v8h-6Zm12 0h6v8h-6Zm12 0h6v8h-6Zm12 0h6v8h-6Z"/>
+    <path d="M776 178h6v8h-6Zm10 0h6v8h-6Zm10 0h6v8h-6Z"/>
+    <path d="M1298 180h6v8h-6Zm12 0h6v8h-6Zm12 0h6v8h-6Z"/>
+  </g>
+</svg>
